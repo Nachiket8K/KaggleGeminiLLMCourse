@@ -30,9 +30,8 @@ The course spanned five days, each focusing on a specific aspect of Generative A
 
 This repository contains the following directories and files:
 
-- `notebooks/`: Jupyter notebooks for each day's lessons and exercises.
-- `data/`: Datasets used throughout the course.
-- `models/`: Saved models from training sessions.
+- `course_notebooks/`: Jupyter notebooks for each day's lessons and exercises as presented by the course coordinators.
+- `own_notebooks/`: Jupyter notebooks containing my execution of the notebooks including notes and explanations.
 - `README.md`: This document.
 
 ## Dependencies

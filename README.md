@@ -32,7 +32,9 @@ This repository contains the following directories and files:
 
 - `course_notebooks/`: Jupyter notebooks for each day's lessons and exercises as presented by the course coordinators.
 - `own_notebooks/`: Jupyter notebooks containing my execution of the notebooks including notes and explanations.
+- `requirements.txt` : A long list of everything I have inflicted on my laptop. 
 - `README.md`: This document.
+
 
 ## Dependencies
 
